@@ -1,4 +1,3 @@
-# Hanna Hopkowicz macro sem 6
 # import random
 import time
 
